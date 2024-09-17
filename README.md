@@ -1,7 +1,7 @@
 # About Me 😊:
 I am a Fullstack Web Developer, and my playground is React + Redux, Node, Express, MongoDB, among many others.  
 I love collaborating and working in a team, but what I enjoy the most is getting to know my colleagues during teambuildings and afterworks.  
-I bring positivity, joy, and a festive spirit to the team.
+I bring positivity, joy, and a Christmas spirit to the team.
 
 ## Technologies 💻:
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) 
